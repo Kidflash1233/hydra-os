@@ -161,7 +161,7 @@ The aim is to collaboratively build a small but functional operating system grou
 
 Hydra OS was developed using concepts and guidance from:
 
-*The Little Book About OS Development* – [https://bit.ly/48JIdWp](https://bit.ly/48JIdWp)
+*The Little Book About OS Development* – [The little book about OS development](https://littleosbook.github.io/book.pdf)
 
 This resource provides an excellent foundation for anyone exploring operating system internals.
 
